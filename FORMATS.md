@@ -1,0 +1,12 @@
+# Formats we've used
+
+The AI team checks this list before making posts. Each run, at least one post must use a format that is NOT on this list yet (found trending by the researchers), made with our own visuals, script and original music. After a run, the Manager adds any new format here.
+
+| Format | What it is | First used | Example |
+|---|---|---|---|
+| Dave skit | 3D desk scene with a flat 2D stick figure ("Dave") acting out a trading mistake, captions, original beat | 2026-11-02 | posts/2026-11-02/dave-closed-early.mp4, posts/2026-11-03/dave-moved-stop.mp4, posts/2026-11-02/dave-worst-day.mp4 |
+| App-screen text story | Big caption cards over real app screens (sample data), one idea per card | 2026-11-01 | revenge, journal, strategies, drawdown, free-vs-pro templates (tools/organic); posts/2026-11-03/journal-not-bank-statement.mp4 |
+| Side-by-side comparison | Two states compared on screen (e.g. replay vs live) | 2026-11-02 | posts/2026-11-02/replay-vs-live.mp4 |
+| 3D laptop product ad | Rendered laptop, camera moves between app features on beat | 2026-11-01 | tools/laptop (free-pattern ad) |
+| Phonk feature montage | "My journal is cooler than yours": fast cuts of features to hard original phonk | 2026-11-02 | tools/laptop (cool ad) |
+| Rank share cards | Engraved I to XX rank cards shown as a reveal | 2026-11-02 | tools/engrave |
