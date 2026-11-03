@@ -8,5 +8,6 @@ The AI team checks this list before making posts. Each run, at least one post mu
 | App-screen text story | Big caption cards over real app screens (sample data), one idea per card | 2026-11-01 | revenge, journal, strategies, drawdown, free-vs-pro templates (tools/organic); posts/2026-11-03/journal-not-bank-statement.mp4 |
 | Side-by-side comparison | Two states compared on screen (e.g. replay vs live) | 2026-11-02 | posts/2026-11-02/replay-vs-live.mp4 |
 | 3D laptop product ad | Rendered laptop, camera moves between app features on beat | 2026-11-01 | tools/laptop (free-pattern ad) |
-| Phonk feature montage | "My journal is cooler than yours": fast cuts of features to hard original phonk | 2026-11-02 | tools/laptop (cool ad) |
+| Phonk feature montage | "My journal is cooler than yours": fast cuts of features to hard original phonk | 2026-11-02 | tools/laptop (cool ad); posts/2026-11-04/receipts-ready.mp4 |
 | Rank share cards | Engraved I to XX rank cards shown as a reveal | 2026-11-02 | tools/engrave |
+| Pointer tap-through | Static app screen (P&L calendar, sample data); a cursor taps one item per beat and each tap pops a punchline tag, ends on a reveal, loops. 8–15s, original percussion | 2026-11-04 | posts/2026-11-04/tap-through-month.mp4 (tooling: the-wharf tools/tap-through). Trend: https://www.instagram.com/reel/DewCjeKoB0Q |
