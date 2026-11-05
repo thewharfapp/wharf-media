@@ -7,6 +7,7 @@ Numbers as of: Thu 5 Nov 2026, 5:45 am Melbourne ([Metricool IG](https://app.met
 ## Requests from Will (read first)
 
 - **For the 6 Nov run (Fri), Idea B:** build it around Will's line: "If you keep blowing accounts, check out The Wharf app to see where you're going wrong." Use it as the hook and/or end-card CTA (can be tightened, keep the meaning). Topic: blowing prop accounts and finding the pattern behind it in your journal. No profit or funding promises; app screens show "Sample data shown". Once used, move this note into the table row.
+- **First run on or after 15 Nov (after the 14-day no-repeat window):** build a post around Will's line: "Most traders believe you blow your account on one trade. But the truth is, you blow it on the 3rd one after." It overlaps "first loss is never the problem" (31 Oct, best saves rate) and "lose from the three after it" (1 Nov, weak watch time), so don't use it before 15 Nov. Make it a story/character video (Dave or a dramatised mini-story), not text over app screens. Keep the claim as a pattern to watch for, not a fact for everyone; app screens show "Sample data shown". Once used, move this note into the table row.
 
 | Date (Sydney) | File / post | Format | Topic | Hook (first words on screen) | Length | Music | Slot | Test | IG views | IG avg watch | IG likes | IG saves | IG shares | IG comments | TT views | TT avg watch / completion | TT likes | TT saves | TT shares | TT comments | Follows | Links |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
