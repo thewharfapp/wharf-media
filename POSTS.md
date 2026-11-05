@@ -4,6 +4,10 @@ One row per published post. The Manager updates the numbers every run (R2 pulls 
 
 Numbers as of: Thu 5 Nov 2026, 5:45 am Melbourne ([Metricool IG](https://app.metricool.com/evolution/instagram?blogId=7814382)). Metricool gives no per-post follows on either network; TikTok gives no saves, avg watch time or completion (null), so those columns stay blank.
 
+## Requests from Will (read first)
+
+- **For the 6 Nov run (Fri), Idea B:** build it around Will's line: "If you keep blowing accounts, check out The Wharf app to see where you're going wrong." Use it as the hook and/or end-card CTA (can be tightened, keep the meaning). Topic: blowing prop accounts and finding the pattern behind it in your journal. No profit or funding promises; app screens show "Sample data shown". Once used, move this note into the table row.
+
 | Date (Sydney) | File / post | Format | Topic | Hook (first words on screen) | Length | Music | Slot | Test | IG views | IG avg watch | IG likes | IG saves | IG shares | IG comments | TT views | TT avg watch / completion | TT likes | TT saves | TT shares | TT comments | Follows | Links |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-11-05 | posts/2026-11-05/dave-live-backtest.mp4 | Dave skit (follow-up to top-third) | Skipping the backtest: live account becomes the test | "Your live account is the most expensive backtest." | 18.6s | marimba/pizzicato "nature documentary" 110 BPM | 6:20 pm | **Length: 18.6s character story (last Dave 14.6s)** | | | | | | | | | | | | | | (scheduled) |
