@@ -47,5 +47,5 @@ US dollars, checked 8 Nov 2026. **Never name or show these products in a post.**
 - Don't claim The Wharf fully replaces any one product. Say it covers the same jobs: journal, charts, replay, backtesting and prop rules.
 - Data: crypto charts are live; gold, forex and stocks refresh every few minutes, not tick by tick. Don't say "real-time data on every market".
 - Charts, replay and strategy search are Pro. If a post says "free", it means the free plan with the limits above.
-- Don't mention AI trade reviews until Will confirms the feature is live.
+- AI trade reviews are switched off until The Wharf has 50 users (Will, 8 Nov 2026). Never mention them as a feature, now or "coming soon", until Will says they're live. The AI Trading Agent is also not live.
 - No profit, income or funding promises. App screens show "Sample data shown".
