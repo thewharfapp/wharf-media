@@ -15,7 +15,7 @@ Other ways to say it (rotate, don't repeat a line within 14 days):
 
 | Tool | What it does in The Wharf | Free plan | Pro |
 |---|---|---|---|
-| Trading journal | Auto-sync from MetaTrader, NinjaTrader and TopstepX; chart screenshot, notes, mistake tags and rule checks on every trade | 30 days of stats, 20 screenshots | All-time stats, unlimited screenshots |
+| Trading journal | Chart screenshot, notes, mistake tags and rule checks on every trade; auto-sync from MetaTrader, NinjaTrader and TopstepX | 30 days of stats, 20 screenshots (no auto-sync) | All-time stats, unlimited screenshots, auto-sync |
 | Prop firm rule tracking | Trailing drawdown, daily loss and consistency, tracked per account | 1 prop account | Unlimited accounts, each with its own rules |
 | Charts | Candlestick chart with indicators, drawing tools and your trades on it | – | Yes |
 | Bar replay (new) | Hide the future, play the chart candle by candle, paper-trade with a stop and target, see your results | – | Yes |
