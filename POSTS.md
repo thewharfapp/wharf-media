@@ -1,10 +1,26 @@
 # Post performance log
 
-One row per published post. The Manager updates the numbers every run (R2 pulls Metricool analytics for the last 14 days). Blank = not available yet; never guessed. Numbers are lifetime totals at the "Numbers as of" time. "Test" is the one variable the team changed on purpose that day.
+One row per published post. The Manager updates the numbers every run (R2 pulls Metricool analytics for the last 30 days). Blank = not available yet; never guessed. Numbers are lifetime totals at the "Numbers as of" time. "Test" is the one variable the team changed on purpose that day.
 
 Numbers as of: Sun 8 Nov 2026, 5:35 am Melbourne ([Metricool IG](https://app.metricool.com/evolution/instagram?blogId=7814382)). Metricool gives no per-post follows on either network; TikTok gives no saves, avg watch time or completion (null), so those columns stay blank.
 
+## Hall of fame (update every run)
+
+Our best posts ever. The PUSH post each day builds on one of these, or on a top-third post from the last 30 days. Numbers as of 8 Nov 2026.
+
+| Post | Format | Best numbers | Why it worked |
+|---|---|---|---|
+| 2026-10-23 "30 days to pass" | Dramatised story | IG 2,304 views, 18.5s avg watch, 19 shares | A ticking deadline and real stakes (pass or lose the account), told as a mini-story with a payoff |
+| 2026-10-25 "moved it just this once" | Visual metaphor (wave) | IG 1,824 views, 8.7s avg watch, 10 shares | One relatable mistake turned into a single strong image that escalates; ends on a question |
+| 2026-10-26 "spreadsheet with a monthly fee" | Story / price pitch | TT 1,000 views (our best TikTok), IG 433 with 11.8s avg watch | Calls out paying monthly for a spreadsheet; the "one small subscription" pitch ([PITCH.md](PITCH.md)) |
+| 2026-11-03 "Dave moved his stop" | Dave skit | TT 850 views, IG 7.0s avg watch | Dave as everyone's bad habit; "tag the Dave in your group chat" |
+| 2026-10-31 "+$12 felt amazing" / "Trade 1 was the loss" / "Stop at −$200" | Short relatable text story (TikTok) | TT 735–781 views each | Self-deprecating, one feeling per video, comment prompt |
+
+Since 4 Nov, no post has come close to these. Bring the first three formats back with new topics and hooks.
+
 ## Requests from Will (read first)
+
+- **8 Nov 2026, standing:** keep evolving, check what works, then push it out. Every day one PUSH post (built on the Hall of fame or the last 30 days' top third) and one TEST post (something new). At least 3 posts a week use the pitch in [PITCH.md](PITCH.md): all the trading tools people pay for separately, in one small subscription.
 
 - **First run on or after 15 Nov (after the 14-day no-repeat window):** build a post around Will's line: "Most traders believe you blow your account on one trade. But the truth is, you blow it on the 3rd one after." It overlaps "first loss is never the problem" (31 Oct, best saves rate) and "lose from the three after it" (1 Nov, weak watch time), so don't use it before 15 Nov. Make it a story/character video (Dave or a dramatised mini-story), not text over app screens. Keep the claim as a pattern to watch for, not a fact for everyone; app screens show "Sample data shown". Once used, move this note into the table row.
 

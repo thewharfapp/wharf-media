@@ -4,6 +4,9 @@ The AI team checks this list before making posts. Each run, at least one post mu
 
 | Format | What it is | First used | Example |
 |---|---|---|---|
+| Dramatised story | **Proven (Hall of fame).** A trader's mini-story with a deadline and stakes (e.g. 30 days to pass), the journal finds the problem, payoff at the end. Label "Dramatisation" | 2026-10-23 | "30 days to pass" (IG 2,304 views) |
+| Visual metaphor (wave) | **Proven (Hall of fame).** One mistake becomes one escalating image (each stop move = a bigger wave), ends on a question | 2026-10-25 | "moved it just this once" (IG 1,824 views) |
+| Story / price pitch | **Proven (Hall of fame).** Calls out what traders pay for their tools (e.g. a spreadsheet with a monthly fee), then shows The Wharf doing it all in one subscription. Facts and rules in PITCH.md | 2026-10-26 | "spreadsheet with a monthly fee" (TT 1,000 views) |
 | Dave skit | 3D desk scene with a flat 2D stick figure ("Dave") acting out a trading mistake, captions, original beat | 2026-11-02 | posts/2026-11-02/dave-closed-early.mp4, posts/2026-11-03/dave-moved-stop.mp4, posts/2026-11-02/dave-worst-day.mp4, posts/2026-11-05/dave-live-backtest.mp4 (18.6s, marimba doc beat) |
 | App-screen text story | **Resting until 2026-11-19** (2+ weak posts in a row: 2.0–3.2s avg watch on IG). Big caption cards over real app screens (sample data), one idea per card | 2026-11-01 | revenge, journal, strategies, drawdown, free-vs-pro templates (tools/organic); posts/2026-11-03/journal-not-bank-statement.mp4 |
 | Side-by-side comparison | Two states compared on screen (e.g. replay vs live) | 2026-11-02 | posts/2026-11-02/replay-vs-live.mp4 |
