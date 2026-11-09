@@ -23,6 +23,14 @@ Since 4 Nov, no post has come close to these. Bring the first three formats back
 
 - **8 Nov 2026, standing:** keep evolving, check what works, then push it out. Every day one PUSH post (built on the Hall of fame or the last 30 days' top third) and one TEST post (something new). At least 3 posts a week use the pitch in [PITCH.md](PITCH.md): all the trading tools people pay for separately, in one small subscription.
 
+- **10 Nov 2026, standing until Will says otherwise: run without paid research credits.** Apify (this month's free US$5 is used up), vidIQ (no credits) and Firecrawl (only a small free daily allowance) are out of credit, and Will isn't upgrading. When one says it's out of credit, don't retry it. Research with the built-in web search and page fetch instead:
+  - **Trends:** this week's trend roundup articles and TikTok's public Creative Center trend pages, plus the example videos they link. Only use a trend you can link an example for. Numbers quoted from an article are fine if you name the article as the source.
+  - **Our own numbers:** Metricool still works. PUSH posts built on the Hall of fame need no scraping, so lean on them.
+  - **Pain points:** Reddit and forum threads found through web search.
+  - **Will's picks:** reels Will sends (as screen recordings) are examples of hooks that convert on Instagram. Treat them as proven-hook references.
+  - If no new trending format can be verified that day, the TEST post tests a new hook, story or angle in a proven format instead. Say so in the log.
+  - When the monthly free allowances reset, spend them only on the most useful job (for example one hashtag pull per network) and stop when they run out.
+
 - **First run on or after 15 Nov (after the 14-day no-repeat window):** build a post around Will's line: "Most traders believe you blow your account on one trade. But the truth is, you blow it on the 3rd one after." It overlaps "first loss is never the problem" (31 Oct, best saves rate) and "lose from the three after it" (1 Nov, weak watch time), so don't use it before 15 Nov. Make it a story/character video (Dave or a dramatised mini-story), not text over app screens. Keep the claim as a pattern to watch for, not a fact for everyone; app screens show "Sample data shown". Once used, move this note into the table row.
 
 | Date (Sydney) | File / post | Format | Mix (PUSH: builds on / TEST) | Pitch | Topic | Hook (first words on screen) | Length | Music | Slot | Test | IG views | IG avg watch | IG likes | IG saves | IG shares | IG comments | TT views | TT avg watch / completion | TT likes | TT saves | TT shares | TT comments | Follows | Links |
